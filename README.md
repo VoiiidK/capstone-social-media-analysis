@@ -1,1 +1,1 @@
-# Capstone-Social-Media-Analysis
+# capstone-social-media-analysis
